@@ -1,0 +1,27 @@
+{
+
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+
+    "criteria": {
+
+        "craftedstim": {
+
+            "trigger": "minecraft:recipe_unlocked",
+
+            "conditions": {
+
+                "recipe": "kpatt_stim:stim"
+
+            }
+
+        }
+
+    },
+
+    "rewards": {
+
+        "function": "kpatt_stim:give_stim"
+
+    }
+
+}

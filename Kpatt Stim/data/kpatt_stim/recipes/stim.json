@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " H ",
+      " J ",
+      "SSS"
+    ],
+    "key": {
+      "H": {
+        "item": "minecraft:tripwire_hook"
+      },
+      "J": {
+        "item": "minecraft:potion"
+      },
+      "S": {
+        "item": "minecraft:sugar"
+      }
+    },
+    "result": {
+      "item": "minecraft:knowledge_book",
+      "count": 1
+    }
+  }
