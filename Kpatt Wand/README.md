@@ -15,5 +15,5 @@ Left click on the crafted book to obtain the wand!
 
 <img src="https://user-images.githubusercontent.com/42879674/177257936-e0afdddb-7193-4da1-9845-ec3037525231.png" width="480"/>
 
-With blaze powder in your inventory, right click the wand to summon the fireball.
+With blaze powder in your inventory, right click the wand to summon the fireball.<br>
 Left click the summoned fireball to launch it!
