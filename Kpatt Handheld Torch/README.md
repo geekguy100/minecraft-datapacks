@@ -1,5 +1,7 @@
 # Handheld Torch 🔦
-[![Image from Gyazo](https://i.gyazo.com/5295073ad6ee7a5b6e08d72fb3721e6d.gif)](https://gyazo.com/5295073ad6ee7a5b6e08d72fb3721e6d)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/42879674/177266148-766cea30-569d-40c7-bc4f-ce3908eb0a33.png" width="700"/>
+</div>
 
 ## What is it?
 Handeld Torch is a data pack that provides lighting around the player while they are holding a <em>regular</em> torch, whether it's in their primary or off hand.
