@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " D ",
+      " G ",
+      " R "
+    ],
+    "key": {
+      "D": {
+        "item": "minecraft:nether_star"
+      },
+      "G": {
+        "item": "minecraft:ghast_tear"
+      },
+      "R": {
+        "item": "minecraft:blaze_rod"
+      }
+    },
+    "result": {
+      "item": "minecraft:knowledge_book",
+      "count": 1
+    }
+  }
