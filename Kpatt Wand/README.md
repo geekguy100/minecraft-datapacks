@@ -14,4 +14,3 @@ Left click on the crafted book to obtain the wand!
 
 ## Requirements
 The magic wand uses blaze powder as ammunition. Each fireball uses one blaze powder.
-[![Image from Gyazo](https://i.gyazo.com/507bcf207440692b6df35e4f5b3550e3.gif)](https://gyazo.com/507bcf207440692b6df35e4f5b3550e3)
